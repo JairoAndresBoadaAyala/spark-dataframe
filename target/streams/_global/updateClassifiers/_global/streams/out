@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/jairo/proyecto-cencoScotiabank/proyectos-oapi/java/spark-dataframe-example/"), "spark-dataframe-example")...
+[debug] Done updating ProjectRef(uri("file:/home/jairo/proyecto-cencoScotiabank/proyectos-oapi/java/spark-dataframe-example/"), "spark-dataframe-example")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

@@ -3,12 +3,12 @@
 
 ## <a name="Problema"></a>Planteamiento del problema
 
-![problema: ](/home/jairo/proyecto-cencoScotiabank/proyectos-oapi/java/spark-dataframe-example/assets/problema.png)
+![problema: ](https://github.com/JairoAndresBoadaAyala/spark-dataframe/blob/master/assets/problema.png)
 
 
 ## <a name="Arquitectura"></a>Arquitectura
 
-![arquitectura: ](/home/jairo/proyecto-cencoScotiabank/proyectos-oapi/java/spark-dataframe-example/assets/arquitectura.png)
+![arquitectura: ](https://github.com/JairoAndresBoadaAyala/spark-dataframe/blob/master/assets/arquitectura.png)
 
 
 
@@ -35,13 +35,13 @@ Esta es la clase principal donde se debe ejecutar y es la que se encarga de leva
 
 las salidas la deje en la exportacion de un archivo en formato Json el cual pueden ver en la siguiente ruta, cada ejecucion cuenta con un idExecution unico para que esta informacion no sea sobreescrita.
 
-![salidas: ](/home/jairo/proyecto-cencoScotiabank/proyectos-oapi/java/spark-dataframe-example/assets/salidas.png)
+![salidas: ](https://github.com/JairoAndresBoadaAyala/spark-dataframe/blob/master/assets/salidas.png)
 
 ### <a name="Logs"></a>Logs: 
 
 Tambien pueden validar a nivel de logs el resultado impreso del df5. 
 
-![df5: ](/home/jairo/proyecto-cencoScotiabank/proyectos-oapi/java/spark-dataframe-example/assets/df5.png)
+![df5: ](https://github.com/JairoAndresBoadaAyala/spark-dataframe/blob/master/assets/df5.png)
 
 
 # Otras posibles soluciones: 
